@@ -1,0 +1,1 @@
+This is a sample text file for negative testing.It is not an image.Testing file upload validation bug.
